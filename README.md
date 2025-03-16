@@ -17,11 +17,13 @@ Shows sky conditions with corresponding weather icons.
 🖼️ Screenshots
 
 Temperature Chart
+![temp1](https://github.com/user-attachments/assets/fdb1e78b-0822-4805-9f4e-2f234dffdcdf)
 
 
 
 Weather Icons Display
 
+![sky1](https://github.com/user-attachments/assets/112d6281-c2fe-43cc-8ca2-5490eb5d7b4a)
 
 
 🛠 Technologies Used

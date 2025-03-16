@@ -17,6 +17,8 @@ Shows sky conditions with corresponding weather icons.
 🖼️ Screenshots
 
 Temperature Chart
+
+
 ![temp1](https://github.com/user-attachments/assets/fdb1e78b-0822-4805-9f4e-2f234dffdcdf)
 
 
